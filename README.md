@@ -3,7 +3,7 @@
 A pixel-perfect, highly responsive **Tax Loss Harvesting Interface** built as part of the KoinX Frontend Intern assessment. This dashboard allows cryptocurrency investors to track their pre-harvesting capital gains and simulate real-time tax optimization by selecting individual asset holdings to lock in or offset capital losses.
 
 ## 🚀 Live Demo & Repository
-- **Live Deployed Link:** [Paste your Vercel/Netlify URL here]
+- **Live Deployed Link:** https://koinx-tax-harvesting-mu.vercel.app/
 - **GitHub Repository:** https://github.com/prashant-art/koinx-tax-harvesting
 
 ---
